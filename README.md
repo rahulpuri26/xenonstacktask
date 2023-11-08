@@ -1,7 +1,7 @@
 # xenonstacktask
 XenonStack tasks
 
-Task 1 is in first folder
+Task 1 of linux taskis in first folder
 
 Second folder have three files for the basic web project
 showing basic login and logout page and contact web pages 
